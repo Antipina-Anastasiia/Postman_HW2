@@ -1,6 +1,5 @@
 # Postman_HW2
 
-# postman_hw2
 the secont hw postman
 33_Channel_QA, [08.03.2023 01:00]
 HW_2 Postman
