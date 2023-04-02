@@ -1,8 +1,5 @@
 # Postman_HW2
 
-the secont hw postman
-33_Channel_QA, [08.03.2023 01:00]
-HW_2 Postman
 
 
 http://162.55.220.72:5005/first
